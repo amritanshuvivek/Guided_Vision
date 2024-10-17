@@ -18,8 +18,8 @@
 - **Libraries**: PyTorch (model loading and inference), pyttsx3 (text-to-speech)
 - **Development Tools**: Visual Studio Code, Git (version control)
 
-License
+License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+Acknowledgments:
 Special thanks to the Ultralytics team for their work on YOLOv5.
